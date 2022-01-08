@@ -1,2 +1,3 @@
-# kb
-Kubernetes benchmarking tool
+# cos
+
+Cloud Native **C**ost-**O**ptimization **S**uite.
